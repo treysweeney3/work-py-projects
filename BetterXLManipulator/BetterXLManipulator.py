@@ -5,11 +5,11 @@
 import openpyxl as xl
 
 #Create object for file input
-wb = xl.load_workbook('Homewood-resi-addresses.xlsx')
+wb = xl.load_workbook('Path to file')
 #ws = wb.active
 
 #Initialize values for openpyxl use
-ws = wb['Sheet1']
+ws = wb['Sheet name']
 
 while True:
 
@@ -23,7 +23,7 @@ while True:
 #Iterate through column and return corresponding day in adjacent row
         for i in range (2,6300):
         
-            if ws.cell(row=i, column=9).value == street or ws.cell(row=i, column=1).value == street or street + " ":
+            if ws.cell(row=i, column=9).value == street:
                 ws.cell(row=i, column=10).value = day
      
 #Break while loop    
@@ -33,6 +33,6 @@ while True:
             
 
 #Save workbook
-wb.save("Homewood-resi-addresses-UPDATED.xlsx")
+wb.save("Updated file name")
 
 

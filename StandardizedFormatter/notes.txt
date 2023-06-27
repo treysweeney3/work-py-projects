@@ -16,3 +16,16 @@ ridge -> RDG
 trail -> TRL
 
 cast column series to text and use regex search() to find matches?
+
+TO-DO
+
+Priority high
+
+Try again if input not recognized (COMPLETED)
+Press any key to exit if user rejects reformat option (COMPLETED)
+Repeat reformat() for different substring search and replacement (COMPLETED... but not the way I defined here)
+Regex expression for replacement
+Save file as "name" functionality
+File not found exception
+
+Priority low

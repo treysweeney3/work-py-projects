@@ -1,0 +1,18 @@
+REFORMATTING:
+
+drive -> DR
+court -> CT
+lane -> LN
+road -> RD
+avenue -> AVE
+circle -> CIR
+place -> PL
+street -> ST
+boulevard -> BLVD
+cove -> CV
+terrace -> TER
+parkway -> PKWY
+ridge -> RDG
+trail -> TRL
+
+cast column series to text and use regex search() to find matches?

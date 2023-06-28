@@ -24,8 +24,8 @@ Priority high
 Try again if input not recognized (COMPLETED)
 Press any key to exit if user rejects reformat option (COMPLETED)
 Repeat reformat() for different substring search and replacement (COMPLETED... but not the way I defined here)
-Regex expression for replacement
-Save file as "name" functionality
+Regex expression for replacement (COMPLETED)
+Save file as "name" functionality (COMPLETED)
 File not found exception
 
 Priority low

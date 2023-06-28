@@ -7,6 +7,12 @@ This program uses a regex to match a string specified by a dictionary. Once foun
 
 More explanation on functionality will be added at a later date.
 
-**NOTE**
+**USER GUIDE**
+1. When prompted, enter path to file that should be reformatted.
+2. Enter name of address column that should be reformatted.
+3. Enter name of save file.
+4. Enter "n" or "N" to leave program. (Needs improved functionality)
+
+**NOTES**
 
 file-formatter-1.0 uses a different iterable implementation and is not functional. It is only included for personal reference when working with pandas.

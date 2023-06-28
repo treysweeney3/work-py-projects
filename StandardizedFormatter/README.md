@@ -6,3 +6,7 @@ The main issue that arose was formatting of street names. Our system needed .xls
 This program uses a regex to match a string specified by a dictionary. Once found, it will replace values within the file with a corresponding value mapped to the initial value within the dictionary.
 
 More explanation on functionality will be added at a later date.
+
+**NOTE**
+
+file-formatter-1.0 uses a different iterable implementation and is not functional. It is only included for personal reference when working with pandas.

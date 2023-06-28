@@ -15,4 +15,5 @@ More explanation on functionality will be added at a later date.
 
 **NOTES**
 
-file-formatter-1.0 uses a different iterable implementation and is not functional. It is only included for personal reference when working with pandas.
+file-formatter and file-formatter-1.0 uses a different iterable implementation and is not functional. 
+It is only included for personal reference when working with pandas. file-formatter-1.1 should be used.
